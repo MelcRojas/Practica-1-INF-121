@@ -1,6 +1,5 @@
-# Practica-1-INF-121
+# 💥 Práctica 1 - INF-121 💥  
 
-**MELANY CINDEL ROJAS HUARACHI**
-
-**CI:** 9943492  
-**RU:** 1822316
+👩‍💻 **Nombre de Heroína: MELANY CINDEL ROJAS HUARACHI**  
+🆔 **CI:** 9943492  
+🏫 **RU:** 1822316
